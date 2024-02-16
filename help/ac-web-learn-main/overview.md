@@ -4,7 +4,7 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 24deab035cd5610129f3bb6fe623b7cab611a107
+source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 44%
@@ -26,4 +26,14 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 > 다음을 참조하십시오.
 > 
 > * [Campaign 클라이언트 콘솔 자습서](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) Campaign 콘솔에 대한 지침
-> * [Adobe Campaign 웹 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.htm) campaign 웹 사용자 인터페이스에 대한 자세한 내용을 보려면 .
+> * [Adobe Campaign 웹 설명서](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) campaign 웹 사용자 인터페이스에 대한 자세한 내용을 보려면 .
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+</div>
