@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web 사용자 인터페이스
 user-guide-description: Adobe Campaign Web 사용자 인터페이스의 기능을 사용하는 방법을 알아봅니다.
 breadcrumb-title: Web 사용자 인터페이스 - 튜토리얼
 auto-video-transcripts: true
-source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
+source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 88%
+source-wordcount: '96'
+ht-degree: 83%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 88%
 + 프로필 및 대상자 {#profiles-and-audiences}
    + [프로필 탐색](/help/profiles-and-audiences/explore-profiles.md)
    + [대상자 관리 및 구축](/help/profiles-and-audiences/manage-and-build-audiences.md)
+   + [Experience Platform으로 대상자 만들기](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + 워크플로 {#workflows}
    + [타기팅 워크플로우 만들기](/help/workflows/create-a-targeting-workflow.md)
 + [Campaign 클라이언트 콘솔 튜토리얼](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ko)
