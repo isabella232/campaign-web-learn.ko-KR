@@ -1,17 +1,17 @@
 ---
-title: Adobe Campaign 웹 사용자 인터페이스 자습서
+title: Adobe Campaign Web 사용자 인터페이스 튜토리얼
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Web 사용자 인터페이스의 기능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: bec58452e62291152487a1d588bfdabf1a9a6183
+source-git-commit: 93b8eff49c10418cb3e6fc443e109748cfa1fbd8
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 58%
+ht-degree: 62%
 
 ---
 
-# Adobe Campaign 웹 사용자 인터페이스 자습서
+# Adobe Campaign Web 사용자 인터페이스 튜토리얼
 
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign 웹 사용자 인터페이스의 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다. 새 비디오는 정기적으로 추가됩니다.
 
