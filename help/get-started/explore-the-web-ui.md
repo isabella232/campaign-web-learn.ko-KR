@@ -8,9 +8,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-11-29T00:00:00Z
 jira: KT-14388
 source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Campaign Web 사용자 인터페이스에 액세스하고 탐색하는 방법과
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
-다음을 참조하십시오 [Adobe Campaign 웹 시작](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html) 자세한 내용은 Campaign v8 웹 사용자 인터페이스를 탐색하는 방법을 참조하십시오.
+Campaign v8 웹 사용자 인터페이스를 탐색하는 방법에 대한 자세한 내용은 [Adobe Campaign Web 시작](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=ko)을 참조하세요.
